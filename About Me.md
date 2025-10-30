@@ -1,4 +1,4 @@
-I'm Kwanele (they/them). I want to be a software developer and I'm working on learning the tools and practices needed to build reliable, user-centered applications.
+I'm Kwanele. I want to be a software developer and I'm working on learning the tools and practices needed to build reliable, user-centered applications.
 
 ## Current role & focus
 - Role: Aspiring software developer
@@ -6,11 +6,7 @@ I'm Kwanele (they/them). I want to be a software developer and I'm working on le
 
 ## Skills
 - Languages / learning:  Python , linux
-- Frontend: React, HTML, CSS (customize)
-- Backend: Node.js, Express, FastAPI (customize)
-- Databases: PostgreSQL, MongoDB, Redis (customize)
-- DevOps & tooling: Docker, Git, CI/CD basics (customize)
-- Testing: Jest, basic end-to-end testing (customize)
+- Databases: PostgreSQL
 
 ## Experience highlights
 - Working on personal projects to practice building web applications.
@@ -32,7 +28,3 @@ I'm Kwanele (they/them). I want to be a software developer and I'm working on le
 
 ## Fun facts
 - Hobbies: cycling, photography, reading
-
-Notes:
-- Replace any parentheses and placeholder text with your real details.
-- Share 1–3 skills or accomplishments and I’ll update the Skills and Experience sections to be specific to you.
