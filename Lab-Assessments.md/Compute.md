@@ -32,3 +32,12 @@ This lab is about to launch, manage, resize, and monitor an Amazon EC2 instance.
 - Enable termination protection when working with important instances you do not want accidentally terminated.
 - Remember to resize the filesystem after increasing EBS volume size.
 
+## Screenshots
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/86eda35c-eea5-4070-bad0-333215069ddc" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7af195bf-f7e9-4bbe-81f2-e0fd3fe937dc" />
+<img width="1366" height="768" alt="Screenshot (5) - Copy" src="https://github.com/user-attachments/assets/6653ea1c-475f-4240-b494-4dff317315e3" />
+<img width="1366" height="768" alt="Screenshot (6) - Copy" src="https://github.com/user-attachments/assets/8900a15e-709f-416b-bf13-0d02d987ac03" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8e7499b8-9a56-4b38-a155-dc276804aba1" />
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/26eea616-386e-49bf-a573-a45863f8fb72" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/4e7990fc-50e8-455e-8a37-dd18560b68e1" />
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/cd53c5e2-c177-49f5-85cf-229573939730" />
