@@ -1,4 +1,4 @@
-# LINUX command line lab
+# LINUX Command Line
 
 A short reference for a few basic commands to record session and system metadata.
 
