@@ -38,8 +38,11 @@ Effective communication and group analysis help reinforce networking concepts an
 ## Screenshots 
 
 <img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/dfe37fa3-f511-483b-8289-babf47783863" />
-<img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/c0039afe-b84b-479f-a18e-75617cf93067" />
-<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/6314deef-235e-4652-87be-0d68e1a84a6a" />
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/afe6d65d-ccb5-463c-9b79-7938d915b27c" />
+
+
+<img width="1366" height="768" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/361cee06-7d2c-4d16-9535-f916ac770338" />
+
 <img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/c47b62de-534d-40e0-8d48-e33ec80f4725" />
 <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/af4921da-2115-4173-a000-eb9e7d12c6e9" />
 <img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/9449d067-c0d1-460e-82c6-e035587ddc63" />
