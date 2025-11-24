@@ -43,6 +43,7 @@ Learned safe deletion of tables and databases
 
 Understood basic SQL database management workflow
 
+## Screenshots
 <img width="779" height="222" alt="Screenshot 2025-11-24 112628" src="https://github.com/user-attachments/assets/291b4cf2-76b5-4c75-972a-73f95c663884" />
 <img width="1347" height="396" alt="Screenshot 2025-11-24 113156" src="https://github.com/user-attachments/assets/eed934ca-2c50-49ac-89a2-44384e9133f9" />
 <img width="1232" height="356" alt="Screenshot 2025-11-24 113825" src="https://github.com/user-attachments/assets/34734806-a661-461a-92ce-3d5a40e1caca" />
