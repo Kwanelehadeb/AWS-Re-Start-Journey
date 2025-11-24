@@ -1,16 +1,17 @@
 ## Insert, Update, and Delete Data in a Database
-## Overview
+## Overview:
+This lab demonstrates how to insert, update, delete, and import rows of data in a database using Structured Query Language (SQL).
 
-This lab focused on performing basic database operations to manage data: inserting new records, updating existing ones, and deleting unnecessary entries.
+## Objectives:
+After completing this lab, you will be able to:
 
-## Objectives
+Insert rows into a table
 
-Learn to insert, update, and delete data in a database.
+Update existing rows in a table
 
-Verify changes using SELECT queries.
+Delete rows from a table
 
-Understand safe data manipulation practices.
-
+Import rows from a database backup file
 ## Tasks Completed
 
 Inserted multiple records into tables.
@@ -31,5 +32,9 @@ Remembering to use WHERE clauses to avoid affecting all records.
 DML operations are essential for managing database data.
 
 Always verify changes to maintain data integrity.
+
+## Screenshots
+
+
 
 Careful planning is needed to avoid accidental data loss.
