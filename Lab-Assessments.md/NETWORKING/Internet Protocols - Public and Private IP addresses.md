@@ -42,8 +42,3 @@ Effective communication and group analysis help reinforce networking concepts an
 
 
 <img width="1366" height="768" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/361cee06-7d2c-4d16-9535-f916ac770338" />
-
-<img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/c47b62de-534d-40e0-8d48-e33ec80f4725" />
-<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/af4921da-2115-4173-a000-eb9e7d12c6e9" />
-<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/9449d067-c0d1-460e-82c6-e035587ddc63" />
-<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/d1ab2140-20c7-4a93-a204-93699a6478d4" />
