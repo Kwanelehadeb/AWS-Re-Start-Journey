@@ -1,5 +1,22 @@
-# AWS re/Start Program Overview & Repository README
+# AWS re/Start 
 
-Welcome, this repository contains information and resources for the AWS re/Start program. AWS re/Start is a full-time, classroom-based training program that prepares people for entry-level cloud roles by teaching foundational cloud computing, Linux, Python, networking, security, and other job-ready skills followed by work-readiness and employer engagement.
+Welcome! This repo contains my hands-on projects and labs from the *AWS re/Start program*. Each lab shows what I did, what I learned, and the challenges I faced along the way.
 
-This README is written to serve both learners and program maintainers: use it to understand the program goals, curriculum outline, suggested repo structure, how to run or adapt the materials, and where to find further resources.
+## Why This Repo Exists
+I created this to *track my learning journey* in AWS and practice using real cloud services. It’s also a place to reflect on problems I solved and skills I’m building.
+
+## What’s Inside
+- *labs/* – Individual lab folders (EC2, Lambda, Linux, Networking, etc.)  
+  - Each lab includes screenshots, a brief explanation, and reflections on challenges & solutions.
+- *Service-Notes/* – Simple notes explaining AWS services in my own words.
+- *Certificate/* – Place to add AWS re/Start certificate when available.
+
+## Skills & Tools
+- *AWS Services:* EC2, S3, VPC, IAM, RDS, Lambda, EBS, EFS, DynamoDB  
+- *Other Skills:* SSH, Security Groups, Cloud Networking, Troubleshooting, Problem-solving
+
+## How to Explore
+1. Open labs/ to see each project.  
+2. Check each lab’s README for steps, screenshots, and reflections.  
+3. Look in Service-Notes/ for notes on AWS services.  
+4. Certificates go in the Certificate/ folder.
