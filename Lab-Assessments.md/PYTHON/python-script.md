@@ -1,46 +1,102 @@
-### PHYTHON -SCRIPT
-- I worked through a Python programming lab where I created a script to identify prime numbers between 1 and 250.
--   Learning about functions, loops, and file handling.
+# Python Script: Prime Numbers (1–250)
 
-### STEPS I TOOK 
+## Lab Overview
+
+In this lab, I worked on a Python scripting exercise where I created a program to identify all prime numbers between **1 and 250**. The goal of the lab was to practice writing Python scripts on a Linux system while using functions, loops, and file handling.
+
+---
+
+## Tools and Environment
+
+* **Language:** Python 3
+* **Operating System:** Linux (EC2 instance)
+* **Editor:** nano
+* **Connection Method:** SSH (PuTTY)
+
+---
+
+## Steps I Followed
+
+### 1. Connecting to the Server
+
+I configured **PuTTY** to connect to the EC2 instance using **SSH**. After connecting, I logged in as the **ec2-user** to access the Linux terminal.
 
 <img width="1577" height="826" alt="image" src="https://github.com/user-attachments/assets/1f4ac352-d250-4f64-8c16-bdb0a7c55c10" />
-
-### **CONFIGURE YOUR PUTTY USING SSH TO CONNECT**
-## - LOG IN AS EC2-USER !!!
-
 <img width="652" height="420" alt="image" src="https://github.com/user-attachments/assets/28c4d9b1-7460-4462-a22a-f26610ba68be" />
+---
 
-### CREATING THE PHYTHON SCRIPT
-- Created a Python script file using the nano text editor by executing nano prime_numbers.py in the Linux terminal.
+### 2. Creating the Python Script
 
- <img width="654" height="420" alt="image" src="https://github.com/user-attachments/assets/f12a156d-e3b1-4e73-b63e-8e9913984c0b" />
+Once logged in, I created a new Python file named:
+
+```
+prime_numbers.py
+```
+
+I used the **nano** text editor to create and edit the file by running:
+
+```bash
+nano prime_numbers.py
+```
+<img width="654" height="420" alt="image" src="https://github.com/user-attachments/assets/f12a156d-e3b1-4e73-b63e-8e9913984c0b" />
 
  <img width="718" height="515" alt="image" src="https://github.com/user-attachments/assets/14e530f7-3311-4f7a-aad6-679ad82d2780" />
 
 <img width="658" height="412" alt="image" src="https://github.com/user-attachments/assets/66ea1394-f9b9-49f9-995d-f1c31e81e294" />
 
-### WRITTING THE PRIME NUMBER LOGIC
-- I wrote a prime-checking function that tests whether a number is prime by checking for divisibility from 2 up to the number itself.
-- Then I implemented the main logic using a loop to iterate through numbers 1 to 250.
-- Applied the prime-checking function to each number and storing the results in a list.
+
+---
+
+### 3. Writing the Prime Number Logic
+
+Inside the script, I created a function that checks whether a number is prime. The function works by testing if a number can be divided evenly by any value starting from 2 up to the number itself.
+
+I then wrote the main part of the program using a loop that goes through numbers **1 to 250**. Each number was checked using the prime-checking function, and all prime numbers were stored in a list.
 
 <img width="665" height="417" alt="image" src="https://github.com/user-attachments/assets/05691096-5800-4eaa-ba5f-ea424a359cfd" />
 
-### Adding Output and File Writing
-- Added output functionality to display the prime numbers in the console using the `print()` function.
--  Then I configured file writing to save `results to results txt`.
--  Using Python's file handling methods `(open(), write(), and close())`.
 
--  ### Saving and Running the Script
-- I saved the script in nano by pressing `Ctrl+X`.
-- Confirming with `Y`, and pressing `Enter`.
-- Then I executed the script using the command `python3 prime_numbers.py.`
 
-### Verifying the Results
-- I verified the results by viewing the contents of results.txt using the cat command.
-- Which confirmed that all 53 prime numbers were successfully identified and stored.
-- Documented the script location by obtaining the absolute path using `realpath prime_numbers.py` for future reference.
+### 4. Displaying Output and Writing to a File
+
+After identifying the prime numbers, I displayed them in the terminal using the `print()` function.
+
+I also added file handling so that the results could be saved permanently. I created a file called:
+
+```
+results.txt
+```
+
+Using Python’s file handling methods (`open()`, `write()`, and `close()`), the script writes all the prime numbers into this file.
+
+
+### 5. Saving and Running the Script
+
+After finishing the code, I saved the file in nano by pressing **Ctrl + X**, then **Y**, and **Enter**.
+
+I ran the script using:
+
+```bash
+python3 prime_numbers.py
+```
+
+### 6. Verifying the Results
+
+To confirm that the output was saved correctly, I viewed the contents of the results file using:
+
+```bash
+cat results.txt
+```
+
+The output confirmed that **53 prime numbers** were correctly identified and stored.
+
+I also checked the absolute path of the script using:
+
+```bash
+realpath prime_numbers.py
+```
+
+This helps with locating the script later.
 
 <img width="666" height="419" alt="image" src="https://github.com/user-attachments/assets/fefcb45c-79e8-4440-9657-b257c002ef87" />
 
@@ -48,32 +104,21 @@
 
 <img width="657" height="415" alt="image" src="https://github.com/user-attachments/assets/1cb77dc9-1c8d-45bc-9dc2-ddbd486515cd" />
 
-### The script successfully identified 53 prime numbers and saved them to the results file as required.
+---
 
-### WHAT I LEARNED
-Here's what I learned from this challenge:
+## Challenges Faced
 
-- I created a Python script using the nano text editor and learned the importance of proper indentation and syntax in Python.
-- I implemented a prime number algorithm that identifies all prime numbers between 1 and 250 by checking for divisibility.
-- I used Python's file handling methods to write results to a text file for permanent storage.
+* **File handling:** I initially forgot to close the file after writing to it. This helped me understand why the `close()` method is important to ensure data is saved properly.
 
-#### CHALLENGES
-- File Handling Syntax: I struggled with properly closing the file after writing to it.
--  I forgot to include the close() method initially, which could have caused issues with data not being saved properly to results..txt
+---
 
-###  OVERALL
-- I learned how to write and execute Python scripts on Linux,
-- Process numerical data. 
-- Save output to external files using the command line.
+## What I Learned
 
-### Lab Complete 🎓
-
-
-
-
-
-
-
+* How to create and edit Python scripts using the **nano** text editor
+* The importance of correct indentation and syntax in Python
+* How to use functions and loops to process numerical data
+* How to write output to external files using Python file handling
+* How to run Python scripts from the Linux command line
 
 
 
