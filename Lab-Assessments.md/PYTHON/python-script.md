@@ -1,4 +1,4 @@
-# Python Script: Prime Numbers (1–250)
+# Python Script: Prime Numbers 
 
 ## Lab Overview
 
