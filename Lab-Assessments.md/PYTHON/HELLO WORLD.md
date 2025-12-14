@@ -93,6 +93,7 @@ After saving the file, I ran the program using the **Run** button in Cloud9. The
 ## Challenges
 - Cloud9 warning pop-ups   
 - Multiple Python versions
+  
 
 ## Solutions
 -Selected Discard when prompted
