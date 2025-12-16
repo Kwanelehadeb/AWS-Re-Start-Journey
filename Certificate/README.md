@@ -74,7 +74,7 @@ This introduced me to the core concept of AI and machine learning, including mod
 
 ## Developing Generative Artificial Intelligence Solutions
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7d7f4a9-7add-4aa3-8567-82a0ca39cef7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f7d7f4a9-7add-4aa3-8567-82a0ca39cef7" /> 
 
 I explored generative AI techniques such as text, images, and code generation. I completed hands-on exercises to create AI solutions that generates content basesd on user input 
 
@@ -86,8 +86,8 @@ I learned how lage AI models are optimized for efficiency and performance. I pra
 
 ## Developing Machine Learning Solutions
 
-<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/1b11444c-7dd5-429f-982b-
-  22d80dcef9a4" />
+<img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/2601f282-691e-43b3-b936-632a8f53d57d" />
+
 
 This focused on building, training and deployed ML models for practical applications. I implemented end-to-end ML workflows using dasets and evaluation metrics 
 
