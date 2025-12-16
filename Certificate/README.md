@@ -14,12 +14,14 @@ Below are some of the certificates I have earned:
 
 ![WhatsApp Image 2025-11-23 at 15 51 38_142f1ce2](https://github.com/user-attachments/assets/59878984-a2cb-484c-9e6c-73800a1de285)
 
+This learning plan has introduced me to the fundamental of artificial intelligence, including machine learning concepts and AI practices. I completed hands-on learning to unerstand how AI services are used  
+in real world scenarios and how they can be applied within cloud enviroments
 
 ### AWS Cloud Quest: Cloud Practitioner
 
 ![WhatsApp Image 2025-11-23 at 16 20 50_e65c3eb8](https://github.com/user-attachments/assets/6956b214-0e3a-4680-a72b-624457197c9a)
 
-
+This helped me to understand core AWS cloud concept such as compute, storage, networking, and Pricing. I completed interactive, hands-on labs that involved using AWS services to solve real-world cloud scenarios
 
 Awarded for: Successfully completing the AWS Cloud Quest Cloud Practitioner training.
 
