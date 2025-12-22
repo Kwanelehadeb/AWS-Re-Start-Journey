@@ -15,7 +15,7 @@ The result is an Amazon Lex chatbot that uses basic Natural Language Processing 
 ---
 
 ## Goals
-What I set out to achieve:
+What we set out to achieve:
 - Understand how Amazon Lex manages intents, utterances, slots, and responses.
 - Design clear conversation flows that are easy for users to follow.
 - Build a quiz experience that accepts A/B/C answers and responds appropriately.
@@ -23,7 +23,7 @@ What I set out to achieve:
 
 ---
 
-## What I built — Part 1: Basic chatbot
+## What we built — Part 1: Basic chatbot
 To get comfortable with Lex, I started with a single-purpose bot focused on Amazon S3.
 
 Key steps:
@@ -40,11 +40,11 @@ Screenshots:
 
 ---
 
-## What I built — Part 2: Quiz chatbot (Challenge)
-After I had the basics working, I extended the bot into an interactive quiz.
+## What we built — Part 2: Quiz chatbot (Challenge)
+After we had the basics working, I extended the bot into an interactive quiz.
 
 Scenario
-- For the challenge I imagined an educational client, “Cloud Learners Inc.”, who wanted a chatbot that could test learners’ basic knowledge of Amazon S3.
+- For the challenge we imagined an educational client, “Cloud Learners Inc.”, who wanted a chatbot that could test learners’ basic knowledge of Amazon S3.
 
 Quiz experience
 - The bot asks multiple-choice questions and accepts short answers such as A, B, or C.
@@ -60,13 +60,13 @@ Quiz screenshots:
 
 ## How it works (high level)
 - Amazon Lex handles the NLP: it maps user phrases to intents and returns the configured response.
-- For the quiz, I used intents and conditional response logic to check answers and branch the conversation.
+- For the quiz, we used intents and conditional response logic to check answers and branch the conversation.
 - Testing and iteration were done in the Lex console where I tried many example phrases and simulated quiz runs.
 
 ---
 
 ## Testing and validation
-I validated the bot by:
+we validated the bot by:
 - Running the Lex test console and triggering quiz-related utterances.
 - Submitting correct and incorrect answers to verify the responses.
 - Ensuring the conversation progressed smoothly from question to feedback to the next step.
@@ -76,7 +76,7 @@ Screenshot of the test console:
 
 ---
 
-## Skills I developed
+## Skills we developed
 - Designing conversational flows and intents.
 - Using conditional branching and simple logic in Lex.
 - Debugging and testing conversational interactions.
@@ -85,7 +85,7 @@ Screenshot of the test console:
 ---
 
 ## Ideas for improvements (where you can expand this project)
-If I continue this project, possible next steps include:
+If we continue this project, possible next steps include:
 - Add a Lambda backend to validate answers, keep score, or fetch dynamic questions.
 - Store results in DynamoDB for progress tracking and analytics.
 - Add more question banks and randomize questions for repeat practice.
@@ -95,27 +95,13 @@ If I continue this project, possible next steps include:
 
 ---
 
-## How to try this yourself
-1. Open the Amazon Lex console.
-2. Import or recreate the bot’s intents (use English (ZA) if you want the exact locale).
-3. Add utterances for the intents and set response messages for correct/incorrect answers.
-4. Use the Lex test console to try different phrases and answer quiz questions as A, B, or C.
-5. (Optional) Connect a Lambda function to handle scoring or dynamic content.
-
 ---
 
 ## Presentation & demonstration
-For the final deliverable I prepared a short demo and presentation that covered:
+For the final deliverable we prepared a short demo and presentation that covered:
 - What Lex is and how it processes conversations.
-- The design choices I made for the quiz flow.
+- The design choices we made for the quiz flow.
 - A live demo showing the user answering quiz questions and receiving feedback.
-- Challenges I faced and how I solved them.
+- Challenges we faced and how we solved them.
 
----
-
-If you want, I can:
-- Rewrite this again in a shorter or longer format (e.g., one-page summary, slide notes, or a script for a demo).
-- Convert the “Ideas for improvements” into a prioritized task list or issues you can track in this repo.
-- Draft a README or a short tutorial showing step-by-step how to recreate the quiz bot in the Lex console.
-```
 
