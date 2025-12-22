@@ -1,7 +1,7 @@
-# AWS Lex Interactive Ec2QuizBuddyChatbot Project
+# Ec2QuizBuddyChatbot 
 
 ##  Introduction
-In this project, we designed and built an interactive chatbot using **Amazon Lex** as part of the **AWS re/Start Special Projects programme (Praesignis)**.
+In this project, we designed and built an interactive chatbot using **Amazon Lex** as part of the **AWS re/Start Special Projects programme**
 Our goal was to explore how conversational AI works in practice and to create a chatbot that feels natural, useful, and engaging for users.
 
 The project was completed in two phases:
@@ -119,16 +119,5 @@ As part of the project deliverables, we:
 - Explained the technical approach, challenges encountered, and solutions applied
 
 This strengthened our ability to communicate technical concepts to both technical and non-technical audiences.
-
----
-
-##  Conclusion
-This project provided hands-on experience with **Amazon Lex** and conversational AI.
-By building both a basic chatbot and a quiz-based chatbot, we demonstrated our ability to design structured conversations, 
-implement conditional logic, and deliver a practical solution aligned with real-world educational use cases.
-
----
-
-
 
 
